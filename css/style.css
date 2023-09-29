@@ -1,0 +1,24 @@
+body{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: navy;
+    background-color: lightyellow;
+}
+.content{
+    padding: 20px 0;
+    text-align: center;
+}
+.content__title{
+    margin: 20px;
+}
+.content__link{
+    color: deepskyblue;
+    font-size: 25px;
+    margin: 10px;
+}
+.content__link:hover{
+    color: lightcoral;
+}
